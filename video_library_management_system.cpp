@@ -408,7 +408,7 @@ void main_menu::help(void)
     settextstyle(7,HORIZ_DIR,5);
     outtextxy(70,20,"Welcome to Video Shop");
     settextstyle(2,HORIZ_DIR,5);
-    outtextxy(60,100, "This project your can keep record of daily music cassettes/CDs ");
+    outtextxy(60,100, "This project can keep record of daily music cassettes/CDs ");
     delay(2);
     outtextxy(60,130, "transaction. This program is capable of holding any no. of cassettes/CDs.");
     delay(2);
